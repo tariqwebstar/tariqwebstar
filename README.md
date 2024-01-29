@@ -9,27 +9,30 @@ I am an accomplished Lead Engineer / Technical Advisor / Full Stack Developer wi
 <p align="center"> 
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node-20232a.svg?logo=node.js"></a>
   <a href="#"><img alt="Anuglar" src="https://img.shields.io/badge/Angular-20232a.svg?logo=angular&logoColor=white&color=DD0031"></a>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongo-20232a.svg?logo=mongodb"></a>
-    
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongo-20232a.svg?logo=mongodb"></a>  
 </p>
+
 <p align="center">
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-20232a.svg?logo=javascript"></a>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-20232a.svg?logo=typescript&color=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest-20232a.svg?logo=nestjs&color=DD0031"></a>
-    <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/Jest-ff3c0c.svg?logo=jest"></a>
-    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-fff.svg?logo=graphql&logoColor=e10098"></a>
-     <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>  
+  <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/Nest-20232a.svg?logo=nestjs&color=DD0031"></a>
+  <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/Jest-ff3c0c.svg?logo=jest"></a>
+  <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-fff.svg?logo=graphql&logoColor=e10098"></a>
+  <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>  
 </p>
+
+### 🌱 My most recent posts on [dev.to](https://dev.to/tariqali)
+- [Unlocking Seamless Configuration: Exploring the Built-in Support for .env Files in Node.js](https://dev.to/tariqali/unlocking-seamless-configuration-exploring-the-built-in-support-for-env-files-in-nodejs-552i)
+- [Creating a Node.js Server in TypeScript: A Step-by-Step Guide](https://dev.to/tariqali/creating-a-nodejs-server-in-typescript-a-step-by-step-guide-1fej)
 
 ### 📫 How to reach me:
 
 <p align="center">
-<a  href="https://www.linkedin.com/in/tariq-ali-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tariq-ali-developer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/tariqwebstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:tariq_ali786@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-100000?style=for-the-badge&logo=microsoftoutlook&color=0F6CBD" />
-
 </p>
 
 <!--
