@@ -24,6 +24,7 @@ I am an accomplished Lead Engineer / Technical Advisor / Full Stack Developer wi
 </p>
 
 ### 🌱 My most recent posts on [dev.to](https://dev.to/tariqali)
+- [Trunk-Based Development: An Agile Approach to Continuous Integration](https://dev.to/tariqali/trunk-based-development-an-agile-approach-to-continuous-integration-4k6h)
 - [Unlocking Seamless Configuration: Exploring the Built-in Support for .env Files in Node.js](https://dev.to/tariqali/unlocking-seamless-configuration-exploring-the-built-in-support-for-env-files-in-nodejs-552i)
 - [Creating a Node.js Server in TypeScript: A Step-by-Step Guide](https://dev.to/tariqali/creating-a-nodejs-server-in-typescript-a-step-by-step-guide-1fej)
 
